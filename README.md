@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aimeerim11
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning DevOps Engineering 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning DevOps Engineering
 - 📫 How to reach me @aimeerim11
 
 <!---
